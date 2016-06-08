@@ -1,0 +1,26 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	margin:0;
+	padding:0;
+	background-color:#F0F0F0;
+}
+.container {
+	& {
+		text-align:center
+	}
+	table {
+		margin:0 auto;
+	}
+	table, td, tr {
+		border:1px solid #000;
+		border-collapse:collapse;
+	}
+	td {
+		width:50px;
+		height:50px;
+	}
+	img {
+		width:35px;
+	}
+}

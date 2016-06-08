@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pelago/emogrifier": "^1.0",
+        "league/plates": "^3.1"
+    }
+}
